@@ -1,0 +1,6 @@
+interface:
+  display_name: "깃발 대항전 규칙"
+  short_description: "제공 SDK에 근거한 턴·전투·점령·정보 공개 판정"
+  default_prompt: "$flag-battle-rules로 이 프로젝트의 규칙과 SDK를 대조해 상황을 판정해줘."
+policy:
+  allow_implicit_invocation: true

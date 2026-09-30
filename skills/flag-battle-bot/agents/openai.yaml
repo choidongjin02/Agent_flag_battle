@@ -1,0 +1,6 @@
+interface:
+  display_name: "깃발 대항전 봇 개발"
+  short_description: "공식 스타터와 연구 설계에 기반한 봇 구현·소스 패키징"
+  default_prompt: "$flag-battle-bot로 프로젝트 인수인계를 읽고 요청한 단계의 봇 개발을 진행해줘."
+policy:
+  allow_implicit_invocation: true
